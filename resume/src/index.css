@@ -1,0 +1,93 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+body{
+    background-color:rgb(245, 241, 241);
+}
+.para0{
+    margin-top: 0.5rem;
+}
+.introDiv{
+    margin-left: 1rem;
+}
+img{
+    /* height: 12em; */
+    width: 12em;
+    position: absolute;
+top: 81px;
+filter: grayscale(85%);
+}
+.phoneNumber{
+   margin-left: 0rem !important;
+position: relative;
+left: 0.5rem;
+ 
+}
+.para{
+   margin-top: 0.7rem;
+font-size: 0.9rem; 
+}
+
+.location{
+    margin-top: 3rem;
+    padding: 1.9rem;
+    z-index: 2;
+    background-color: #AED9E0;
+}
+/* .contents{
+    margin-top: 2rem;
+} */
+.mainContainer{
+    
+    width: 35rem;
+   background-color: white;
+    margin:2rem auto;
+    
+}
+.text{
+    font-size: 0.7rem;
+}
+.contents{
+    margin: 0 1rem;
+}
+
+/* .emptyPara{
+    display: none;
+} */
+hr{
+    width: 4rem;
+    color: orange;
+}
+.emptyDiv{
+    width: 2rem;
+    /* height: 2rem;
+    background-color: white; */
+}
+.imageDiv{
+    height: 11.79em;
+    width: 11.91em;
+    background-color: black;
+}
+.secondRow{
+    background-color: rgb(33, 33, 47);
+    color: white;
+    display: flex;
+    /* height: 2rem; */
+}
+.header{
+    font-size: 0.8rem;
+}
+.firstRow{
+    margin-top: 2rem;
+    display: flex;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    /* font-size: 0.8rem; */
+    align-items: center;
+}
+.information{
+    display: flex;
+    margin-top: 3rem;
+}
